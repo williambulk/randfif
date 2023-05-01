@@ -1,0 +1,2126 @@
+[
+ {
+   "clubName": "Paris Saint-Germain"
+ },
+ {
+   "clubName": "FC Barcelona"
+ },
+ {
+   "clubName": "Real Madrid CF"
+ },
+ {
+   "clubName": "Manchester City"
+ },
+ {
+   "clubName": "Atlético de Madrid"
+ },
+ {
+   "clubName": "Liverpool"
+ },
+ {
+   "clubName": "FC Bayern München"
+ },
+ {
+   "clubName": "Manchester United"
+ },
+ {
+   "clubName": "Tottenham Hotspur"
+ },
+ {
+   "clubName": "Chelsea"
+ },
+ {
+   "clubName": "AC Milan"
+ },
+ {
+   "clubName": "Inter"
+ },
+ {
+   "clubName": "France"
+ },
+ {
+   "clubName": "Borussia Dortmund"
+ },
+ {
+   "clubName": "Juventus"
+ },
+ {
+   "clubName": "Arsenal"
+ },
+ {
+   "clubName": "Bayer 04 Leverkusen"
+ },
+ {
+   "clubName": "Lazio"
+ },
+ {
+   "clubName": "Villarreal CF"
+ },
+ {
+   "clubName": "Napoli"
+ },
+ {
+   "clubName": "Germany"
+ },
+ {
+   "clubName": "Roma"
+ },
+ {
+   "clubName": "West Ham United"
+ },
+ {
+   "clubName": "Croatia"
+ },
+ {
+   "clubName": "Leicester City"
+ },
+ {
+   "clubName": "PSV"
+ },
+ {
+   "clubName": "RC Celta de Vigo"
+ },
+ {
+   "clubName": "Hungary"
+ },
+ {
+   "clubName": "Borussia Mönchengladbach"
+ },
+ {
+   "clubName": "Real Betis Balompié"
+ },
+ {
+   "clubName": "Sevilla FC"
+ },
+ {
+   "clubName": "Real Sociedad"
+ },
+ {
+   "clubName": "Spain"
+ },
+ {
+   "clubName": "Athletic Club de Bilbao"
+ },
+ {
+   "clubName": "Wolverhampton Wanderers"
+ },
+ {
+   "clubName": "VfL Wolfsburg"
+ },
+ {
+   "clubName": "TSG Hoffenheim"
+ },
+ {
+   "clubName": "Sporting CP"
+ },
+ {
+   "clubName": "Ajax"
+ },
+ {
+   "clubName": "Galatasaray SK"
+ },
+ {
+   "clubName": "Club Nacional de Football"
+ },
+ {
+   "clubName": "Italy"
+ },
+ {
+   "clubName": "Los Angeles FC"
+ },
+ {
+   "clubName": "Aston Villa"
+ },
+ {
+   "clubName": "Newcastle United"
+ },
+ {
+   "clubName": "AS Monaco"
+ },
+ {
+   "clubName": "Austria"
+ },
+ {
+   "clubName": "None"
+ },
+ {
+   "clubName": "OGC Nice"
+ },
+ {
+   "clubName": "Eintracht Frankfurt"
+ },
+ {
+   "clubName": "Leeds United"
+ },
+ {
+   "clubName": "Portugal"
+ },
+ {
+   "clubName": "Olympique de Marseille"
+ },
+ {
+   "clubName": "Atalanta"
+ },
+ {
+   "clubName": "Palmeiras"
+ },
+ {
+   "clubName": "Everton"
+ },
+ {
+   "clubName": "Getafe CF"
+ },
+ {
+   "clubName": "U.S. Sassuolo Calcio"
+ },
+ {
+   "clubName": "Ukraine"
+ },
+ {
+   "clubName": "FC Nantes"
+ },
+ {
+   "clubName": "Fiorentina"
+ },
+ {
+   "clubName": "Stade Rennais FC"
+ },
+ {
+   "clubName": "SL Benfica"
+ },
+ {
+   "clubName": "Nottingham Forest"
+ },
+ {
+   "clubName": "FC Porto"
+ },
+ {
+   "clubName": "Feyenoord"
+ },
+ {
+   "clubName": "Valencia CF"
+ },
+ {
+   "clubName": "Sport-Club Freiburg"
+ },
+ {
+   "clubName": "Crystal Palace"
+ },
+ {
+   "clubName": "Al Nassr"
+ },
+ {
+   "clubName": "LOSC Lille"
+ },
+ {
+   "clubName": "RCD Espanyol de Barcelona"
+ },
+ {
+   "clubName": "Olympique Lyonnais"
+ },
+ {
+   "clubName": "Fulham"
+ },
+ {
+   "clubName": "Club Athletico Paranaense"
+ },
+ {
+   "clubName": "Trabzonspor"
+ },
+ {
+   "clubName": "Bologna"
+ },
+ {
+   "clubName": "Royal Antwerp FC"
+ },
+ {
+   "clubName": "RB Leipzig"
+ },
+ {
+   "clubName": "Real Valladolid CF"
+ },
+ {
+   "clubName": "Club Brugge KV"
+ },
+ {
+   "clubName": "Atlanta United"
+ },
+ {
+   "clubName": "AC Monza"
+ },
+ {
+   "clubName": "Dinamo Zagreb"
+ },
+ {
+   "clubName": "Southampton"
+ },
+ {
+   "clubName": "Czech Republic"
+ },
+ {
+   "clubName": "Montpellier Hérault SC"
+ },
+ {
+   "clubName": "Sweden"
+ },
+ {
+   "clubName": "Boca Juniors"
+ },
+ {
+   "clubName": "US Salernitana 1919"
+ },
+ {
+   "clubName": "Wales"
+ },
+ {
+   "clubName": "Al Shabab"
+ },
+ {
+   "clubName": "Shanghai Port FC"
+ },
+ {
+   "clubName": "Brighton & Hove Albion"
+ },
+ {
+   "clubName": "AFC Bournemouth"
+ },
+ {
+   "clubName": "Clube Atlético Mineiro"
+ },
+ {
+   "clubName": "Brazil"
+ },
+ {
+   "clubName": "Sport Club Corinthians Paulista"
+ },
+ {
+   "clubName": "Flamengo"
+ },
+ {
+   "clubName": "SC Braga"
+ },
+ {
+   "clubName": "Racing Club de Lens"
+ },
+ {
+   "clubName": "Hellas Verona"
+ },
+ {
+   "clubName": "RSC Anderlecht"
+ },
+ {
+   "clubName": "Cádiz CF"
+ },
+ {
+   "clubName": "RCD Mallorca"
+ },
+ {
+   "clubName": "Elche CF"
+ },
+ {
+   "clubName": "Denmark"
+ },
+ {
+   "clubName": "Udinese Calcio"
+ },
+ {
+   "clubName": "Unión Deportiva Las Palmas"
+ },
+ {
+   "clubName": "Torino F.C."
+ },
+ {
+   "clubName": "VfB Stuttgart"
+ },
+ {
+   "clubName": "Empoli"
+ },
+ {
+   "clubName": "Houston Dynamo"
+ },
+ {
+   "clubName": "AC Sparta Praha"
+ },
+ {
+   "clubName": "Fenerbahçe SK"
+ },
+ {
+   "clubName": "CA Osasuna"
+ },
+ {
+   "clubName": "Watford"
+ },
+ {
+   "clubName": "New England Revolution"
+ },
+ {
+   "clubName": "Granada CF"
+ },
+ {
+   "clubName": "Internacional"
+ },
+ {
+   "clubName": "Fluminense"
+ },
+ {
+   "clubName": "FC Dallas"
+ },
+ {
+   "clubName": "Scotland"
+ },
+ {
+   "clubName": "1. FSV Mainz 05"
+ },
+ {
+   "clubName": "N.E.C. Nijmegen"
+ },
+ {
+   "clubName": "Club Atlético Colón"
+ },
+ {
+   "clubName": "Venezia FC"
+ },
+ {
+   "clubName": "U.C. Sampdoria"
+ },
+ {
+   "clubName": "Austin FC"
+ },
+ {
+   "clubName": "Girona FC"
+ },
+ {
+   "clubName": "1. FC Köln"
+ },
+ {
+   "clubName": "FC Red Bull Salzburg"
+ },
+ {
+   "clubName": "Minnesota United FC"
+ },
+ {
+   "clubName": "Celtic"
+ },
+ {
+   "clubName": "FC Augsburg"
+ },
+ {
+   "clubName": "RC Strasbourg Alsace"
+ },
+ {
+   "clubName": "Beşiktaş JK"
+ },
+ {
+   "clubName": "Godoy Cruz"
+ },
+ {
+   "clubName": "River Plate"
+ },
+ {
+   "clubName": "LA Galaxy"
+ },
+ {
+   "clubName": "AZ Alkmaar"
+ },
+ {
+   "clubName": "Rayo Vallecano"
+ },
+ {
+   "clubName": "Hertha BSC"
+ },
+ {
+   "clubName": "Shakhtar Donetsk"
+ },
+ {
+   "clubName": "Adana Demirspor"
+ },
+ {
+   "clubName": "Lecce"
+ },
+ {
+   "clubName": "Belgium"
+ },
+ {
+   "clubName": "Brentford"
+ },
+ {
+   "clubName": "VfL Bochum 1848"
+ },
+ {
+   "clubName": "Seattle Sounders FC"
+ },
+ {
+   "clubName": "Inter Miami CF"
+ },
+ {
+   "clubName": "Parma"
+ },
+ {
+   "clubName": "Santos"
+ },
+ {
+   "clubName": "Al Fayha"
+ },
+ {
+   "clubName": "Argentina"
+ },
+ {
+   "clubName": "Romania"
+ },
+ {
+   "clubName": "Brøndby IF"
+ },
+ {
+   "clubName": "KRC Genk"
+ },
+ {
+   "clubName": "Toronto FC"
+ },
+ {
+   "clubName": "Columbus Crew"
+ },
+ {
+   "clubName": "Blackburn Rovers"
+ },
+ {
+   "clubName": "Unión Deportiva Almería"
+ },
+ {
+   "clubName": "SK Slavia Praha"
+ },
+ {
+   "clubName": "Mexico"
+ },
+ {
+   "clubName": "Gil Vicente FC"
+ },
+ {
+   "clubName": "Poland"
+ },
+ {
+   "clubName": "Wuhan FC"
+ },
+ {
+   "clubName": "FCSB (Steaua)"
+ },
+ {
+   "clubName": "Angers SCO"
+ },
+ {
+   "clubName": "Levante Unión Deportiva"
+ },
+ {
+   "clubName": "FC Lorient"
+ },
+ {
+   "clubName": "FC Midtjylland"
+ },
+ {
+   "clubName": "América de Cali"
+ },
+ {
+   "clubName": "Norway"
+ },
+ {
+   "clubName": "Club de Foot Montréal"
+ },
+ {
+   "clubName": "AEK Athens"
+ },
+ {
+   "clubName": "Philadelphia Union"
+ },
+ {
+   "clubName": "Pisa"
+ },
+ {
+   "clubName": "FC Twente"
+ },
+ {
+   "clubName": "Al Hilal"
+ },
+ {
+   "clubName": "Antalyaspor"
+ },
+ {
+   "clubName": "Toulouse Football Club"
+ },
+ {
+   "clubName": "New York City FC"
+ },
+ {
+   "clubName": "Atlético Nacional"
+ },
+ {
+   "clubName": "SV Werder Bremen"
+ },
+ {
+   "clubName": "Racing Club"
+ },
+ {
+   "clubName": "Middlesbrough"
+ },
+ {
+   "clubName": "Al Ittihad"
+ },
+ {
+   "clubName": "Bristol City"
+ },
+ {
+   "clubName": "FC Basel 1893"
+ },
+ {
+   "clubName": "BSC Young Boys"
+ },
+ {
+   "clubName": "1. FC Union Berlin"
+ },
+ {
+   "clubName": "United States"
+ },
+ {
+   "clubName": "Rangers FC"
+ },
+ {
+   "clubName": "Stade de Reims"
+ },
+ {
+   "clubName": "F.C. København"
+ },
+ {
+   "clubName": "US Cremonese"
+ },
+ {
+   "clubName": "RB Bragantino"
+ },
+ {
+   "clubName": "Club Atlético Lanús"
+ },
+ {
+   "clubName": "São Paulo"
+ },
+ {
+   "clubName": "FC Schalke 04"
+ },
+ {
+   "clubName": "Real Zaragoza"
+ },
+ {
+   "clubName": "Charlotte FC"
+ },
+ {
+   "clubName": "Hajduk Split"
+ },
+ {
+   "clubName": "Vélez Sarsfield"
+ },
+ {
+   "clubName": "Club Atlético Banfield"
+ },
+ {
+   "clubName": "Hamburger SV"
+ },
+ {
+   "clubName": "Liverpool Fútbol Club"
+ },
+ {
+   "clubName": "Rio Ave FC"
+ },
+ {
+   "clubName": "Ceará Sporting Club"
+ },
+ {
+   "clubName": "PAOK"
+ },
+ {
+   "clubName": "Deportivo Alavés"
+ },
+ {
+   "clubName": "Stade Brestois 29"
+ },
+ {
+   "clubName": "Nashville SC"
+ },
+ {
+   "clubName": "İstanbul Başakşehir FK"
+ },
+ {
+   "clubName": "Al Wehda"
+ },
+ {
+   "clubName": "FC Viktoria Plzeň"
+ },
+ {
+   "clubName": "Club Atlético Independiente"
+ },
+ {
+   "clubName": "Club Atlético Tigre"
+ },
+ {
+   "clubName": "FC Sion"
+ },
+ {
+   "clubName": "Real Oviedo"
+ },
+ {
+   "clubName": "Sunderland"
+ },
+ {
+   "clubName": "Futebol Clube de Famalicão"
+ },
+ {
+   "clubName": "Fortuna Sittard"
+ },
+ {
+   "clubName": "Melbourne Victory"
+ },
+ {
+   "clubName": "Real Sporting de Gijón"
+ },
+ {
+   "clubName": "Casa Pia"
+ },
+ {
+   "clubName": "Wuhan Three Towns"
+ },
+ {
+   "clubName": "Sheffield United"
+ },
+ {
+   "clubName": "Nîmes Olympique"
+ },
+ {
+   "clubName": "Aytemiz Alanyaspor"
+ },
+ {
+   "clubName": "New York Red Bulls"
+ },
+ {
+   "clubName": "AS Saint-Étienne"
+ },
+ {
+   "clubName": "Boavista FC"
+ },
+ {
+   "clubName": "Orlando City Soccer Club"
+ },
+ {
+   "clubName": "Genoa"
+ },
+ {
+   "clubName": "Burnley"
+ },
+ {
+   "clubName": "Club Atlético Huracán"
+ },
+ {
+   "clubName": "ESTAC Troyes"
+ },
+ {
+   "clubName": "Preston North End"
+ },
+ {
+   "clubName": "West Bromwich Albion"
+ },
+ {
+   "clubName": "FC Utrecht"
+ },
+ {
+   "clubName": "Coventry City"
+ },
+ {
+   "clubName": "Republic of Ireland"
+ },
+ {
+   "clubName": "Norwich City"
+ },
+ {
+   "clubName": "Estoril Praia"
+ },
+ {
+   "clubName": "KAA Gent"
+ },
+ {
+   "clubName": "FC Girondins de Bordeaux"
+ },
+ {
+   "clubName": "Club Cerro Porteño"
+ },
+ {
+   "clubName": "Swansea City"
+ },
+ {
+   "clubName": "Club Libertad"
+ },
+ {
+   "clubName": "Defensa y Justicia"
+ },
+ {
+   "clubName": "Al Ain FC"
+ },
+ {
+   "clubName": "CD Tenerife"
+ },
+ {
+   "clubName": "FK Bodø/Glimt"
+ },
+ {
+   "clubName": "Al Batin"
+ },
+ {
+   "clubName": "Platense"
+ },
+ {
+   "clubName": "Vitesse"
+ },
+ {
+   "clubName": "Royale Union Saint-Gilloise"
+ },
+ {
+   "clubName": "Royal Charleroi S.C."
+ },
+ {
+   "clubName": "CD Mirandés"
+ },
+ {
+   "clubName": "Queens Park Rangers"
+ },
+ {
+   "clubName": "Paris FC"
+ },
+ {
+   "clubName": "Hannover 96"
+ },
+ {
+   "clubName": "Panathinaikos FC"
+ },
+ {
+   "clubName": "Clube Sport Marítimo"
+ },
+ {
+   "clubName": "Estudiantes de La Plata"
+ },
+ {
+   "clubName": "Demir Grup Sivasspor"
+ },
+ {
+   "clubName": "LDU Quito"
+ },
+ {
+   "clubName": "Chicago Fire Football Club"
+ },
+ {
+   "clubName": "Clermont Foot 63"
+ },
+ {
+   "clubName": "Portland Timbers"
+ },
+ {
+   "clubName": "Universidad Católica"
+ },
+ {
+   "clubName": "América Futebol Clube"
+ },
+ {
+   "clubName": "DSC Arminia Bielefeld"
+ },
+ {
+   "clubName": "FC Cincinnati"
+ },
+ {
+   "clubName": "SC Heerenveen"
+ },
+ {
+   "clubName": "Club Olimpia"
+ },
+ {
+   "clubName": "Ferencvárosi TC"
+ },
+ {
+   "clubName": "FC Lugano"
+ },
+ {
+   "clubName": "Shenzhen FC"
+ },
+ {
+   "clubName": "FC Paços de Ferreira"
+ },
+ {
+   "clubName": "Dynamo Kyiv"
+ },
+ {
+   "clubName": "Newell's Old Boys"
+ },
+ {
+   "clubName": "FC Metz"
+ },
+ {
+   "clubName": "Servette FC"
+ },
+ {
+   "clubName": "Ettifaq FC"
+ },
+ {
+   "clubName": "Racing Santander"
+ },
+ {
+   "clubName": "Fatih Karagümrük S.K."
+ },
+ {
+   "clubName": "Ulsan Hyundai FC"
+ },
+ {
+   "clubName": "Portimonense SC"
+ },
+ {
+   "clubName": "Reading"
+ },
+ {
+   "clubName": "Club Atlético River Plate"
+ },
+ {
+   "clubName": "Independiente del Valle"
+ },
+ {
+   "clubName": "Orlando Pirates"
+ },
+ {
+   "clubName": "FC Groningen"
+ },
+ {
+   "clubName": "Morocco"
+ },
+ {
+   "clubName": "Club Atlético Aldosivi"
+ },
+ {
+   "clubName": "Ascoli"
+ },
+ {
+   "clubName": "Villarreal Club de Fútbol B"
+ },
+ {
+   "clubName": "FC Zürich"
+ },
+ {
+   "clubName": "Club Atlético Talleres"
+ },
+ {
+   "clubName": "Spezia"
+ },
+ {
+   "clubName": "FC St. Gallen 1879"
+ },
+ {
+   "clubName": "Canada"
+ },
+ {
+   "clubName": "D.C. United"
+ },
+ {
+   "clubName": "Deportivo La Guaira FC"
+ },
+ {
+   "clubName": "Rosario Central"
+ },
+ {
+   "clubName": "Cagliari"
+ },
+ {
+   "clubName": "Málaga CF"
+ },
+ {
+   "clubName": "Argentinos Juniors"
+ },
+ {
+   "clubName": "Lech Poznań"
+ },
+ {
+   "clubName": "Stoke City"
+ },
+ {
+   "clubName": "Fortuna Düsseldorf"
+ },
+ {
+   "clubName": "Standard de Liège"
+ },
+ {
+   "clubName": "Unión de Santa Fe"
+ },
+ {
+   "clubName": "Albacete BP"
+ },
+ {
+   "clubName": "MKE Ankaragücü"
+ },
+ {
+   "clubName": "Real Salt Lake"
+ },
+ {
+   "clubName": "Santa Clara"
+ },
+ {
+   "clubName": "Portsmouth"
+ },
+ {
+   "clubName": "Huddersfield Town"
+ },
+ {
+   "clubName": "KSV Cercle Brugge"
+ },
+ {
+   "clubName": "SD Ponferradina"
+ },
+ {
+   "clubName": "Al Fateh"
+ },
+ {
+   "clubName": "Atakaş Hatayspor"
+ },
+ {
+   "clubName": "Sporting Kansas City"
+ },
+ {
+   "clubName": "Gimnasia y Esgrima La Plata"
+ },
+ {
+   "clubName": "Abha Club"
+ },
+ {
+   "clubName": "KV Oostende"
+ },
+ {
+   "clubName": "Stade Malherbe Caen"
+ },
+ {
+   "clubName": "1. FC Kaiserslautern"
+ },
+ {
+   "clubName": "Finland"
+ },
+ {
+   "clubName": "Adelaide United"
+ },
+ {
+   "clubName": "AJ Auxerre"
+ },
+ {
+   "clubName": "Vitória de Guimarães"
+ },
+ {
+   "clubName": "Atlético Clube Goianiense"
+ },
+ {
+   "clubName": "FBC Melgar"
+ },
+ {
+   "clubName": "Cuiabá"
+ },
+ {
+   "clubName": "Millwall"
+ },
+ {
+   "clubName": "Daegu FC"
+ },
+ {
+   "clubName": "Malmö FF"
+ },
+ {
+   "clubName": "Al Taawoun"
+ },
+ {
+   "clubName": "AC Ajaccio"
+ },
+ {
+   "clubName": "Zhejiang Professional FC"
+ },
+ {
+   "clubName": "San Jose Earthquakes"
+ },
+ {
+   "clubName": "Benevento"
+ },
+ {
+   "clubName": "Hull City"
+ },
+ {
+   "clubName": "Frosinone"
+ },
+ {
+   "clubName": "SD Eibar"
+ },
+ {
+   "clubName": "KV Kortrijk"
+ },
+ {
+   "clubName": "AIK"
+ },
+ {
+   "clubName": "Oud-Heverlee Leuven"
+ },
+ {
+   "clubName": "KVC Westerlo"
+ },
+ {
+   "clubName": "SK Rapid Wien"
+ },
+ {
+   "clubName": "UD Ibiza"
+ },
+ {
+   "clubName": "Deportivo Táchira FC"
+ },
+ {
+   "clubName": "FC Sochaux-Montbéliard"
+ },
+ {
+   "clubName": "FC Nordsjælland"
+ },
+ {
+   "clubName": "Molde FK"
+ },
+ {
+   "clubName": "FC St. Pauli"
+ },
+ {
+   "clubName": "Valenciennes FC"
+ },
+ {
+   "clubName": "Grasshopper Club Zürich"
+ },
+ {
+   "clubName": "Unión Española"
+ },
+ {
+   "clubName": "Deportivo Cali"
+ },
+ {
+   "clubName": "IFK Norrköping"
+ },
+ {
+   "clubName": "Como"
+ },
+ {
+   "clubName": "İttifak Holding Konyaspor"
+ },
+ {
+   "clubName": "Blackpool"
+ },
+ {
+   "clubName": "SC Rheindorf Altach"
+ },
+ {
+   "clubName": "Club Sporting Cristal"
+ },
+ {
+   "clubName": "Atlético Tucumán"
+ },
+ {
+   "clubName": "Luton Town"
+ },
+ {
+   "clubName": "Club Nacional"
+ },
+ {
+   "clubName": "Club Atlético Sarmiento"
+ },
+ {
+   "clubName": "FC Seoul"
+ },
+ {
+   "clubName": "Club Deportes Tolima"
+ },
+ {
+   "clubName": "C.D. Universidad Católica del Ecuador"
+ },
+ {
+   "clubName": "Shandong Taishan"
+ },
+ {
+   "clubName": "Henan Songshan Longmen FC"
+ },
+ {
+   "clubName": "CFR Cluj"
+ },
+ {
+   "clubName": "Kaizer Chiefs"
+ },
+ {
+   "clubName": "Arsenal de Sarandí"
+ },
+ {
+   "clubName": "Damac FC"
+ },
+ {
+   "clubName": "Shanghai Shenhua FC"
+ },
+ {
+   "clubName": "Jeonbuk Hyundai Motors"
+ },
+ {
+   "clubName": "Colo-Colo"
+ },
+ {
+   "clubName": "Kasimpaşa SK"
+ },
+ {
+   "clubName": "Heart of Midlothian"
+ },
+ {
+   "clubName": "KV Mechelen"
+ },
+ {
+   "clubName": "Junior FC"
+ },
+ {
+   "clubName": "SSV Jahn Regensburg"
+ },
+ {
+   "clubName": "Birmingham City"
+ },
+ {
+   "clubName": "SD Huesca"
+ },
+ {
+   "clubName": "SK Sturm Graz"
+ },
+ {
+   "clubName": "Derby County"
+ },
+ {
+   "clubName": "Deportivo Ñublense"
+ },
+ {
+   "clubName": "CD Leganés"
+ },
+ {
+   "clubName": "SV Darmstadt 98"
+ },
+ {
+   "clubName": "GZT Giresunspor"
+ },
+ {
+   "clubName": "Djurgårdens IF"
+ },
+ {
+   "clubName": "Al Adalah"
+ },
+ {
+   "clubName": "Mamelodi Sundowns FC"
+ },
+ {
+   "clubName": "Suwon Samsung Bluewings"
+ },
+ {
+   "clubName": "Raków Częstochowa"
+ },
+ {
+   "clubName": "Fortaleza"
+ },
+ {
+   "clubName": "FC Luzern"
+ },
+ {
+   "clubName": "Club Atlético Peñarol"
+ },
+ {
+   "clubName": "Guangzhou City"
+ },
+ {
+   "clubName": "Burgos CF"
+ },
+ {
+   "clubName": "San Lorenzo de Almagro"
+ },
+ {
+   "clubName": "KAS Eupen"
+ },
+ {
+   "clubName": "Vancouver Whitecaps FC"
+ },
+ {
+   "clubName": "Bari"
+ },
+ {
+   "clubName": "LASK Linz"
+ },
+ {
+   "clubName": "Iceland"
+ },
+ {
+   "clubName": "Sheffield Wednesday"
+ },
+ {
+   "clubName": "SV Sandhausen"
+ },
+ {
+   "clubName": "Vålerenga Fotball"
+ },
+ {
+   "clubName": "Brescia"
+ },
+ {
+   "clubName": "Cienciano"
+ },
+ {
+   "clubName": "FC Vizela"
+ },
+ {
+   "clubName": "Aarhus GF"
+ },
+ {
+   "clubName": "FC Arouca"
+ },
+ {
+   "clubName": "SPAL"
+ },
+ {
+   "clubName": "Oxford United"
+ },
+ {
+   "clubName": "FC Annecy"
+ },
+ {
+   "clubName": "Shijiazhuang Ever Bright F.C."
+ },
+ {
+   "clubName": "Barnsley"
+ },
+ {
+   "clubName": "Metropolitanos de Caracas FC"
+ },
+ {
+   "clubName": "CD Everton de Viña del Mar"
+ },
+ {
+   "clubName": "Australia"
+ },
+ {
+   "clubName": "SC Paderborn 07"
+ },
+ {
+   "clubName": "Miedź Legnica"
+ },
+ {
+   "clubName": "Wigan Athletic"
+ },
+ {
+   "clubName": "Borussia Dortmund II"
+ },
+ {
+   "clubName": "FC Farul Constanța"
+ },
+ {
+   "clubName": "Barracas Central"
+ },
+ {
+   "clubName": "Dundee United"
+ },
+ {
+   "clubName": "1. FC Nürnberg"
+ },
+ {
+   "clubName": "SpVgg Greuther Fürth"
+ },
+ {
+   "clubName": "La Equidad"
+ },
+ {
+   "clubName": "Club Alianza Lima"
+ },
+ {
+   "clubName": "Eintracht Braunschweig"
+ },
+ {
+   "clubName": "FC Volendam"
+ },
+ {
+   "clubName": "Rotherham United"
+ },
+ {
+   "clubName": "Silkeborg IF"
+ },
+ {
+   "clubName": "GD Chaves"
+ },
+ {
+   "clubName": "1. FC Heidenheim 1846"
+ },
+ {
+   "clubName": "Bolton Wanderers"
+ },
+ {
+   "clubName": "Rapid București"
+ },
+ {
+   "clubName": "FK Austria Wien"
+ },
+ {
+   "clubName": "Caracas Fútbol Club"
+ },
+ {
+   "clubName": "Gazişehir Gaziantep F.K."
+ },
+ {
+   "clubName": "Hammarby IF"
+ },
+ {
+   "clubName": "Al Raed"
+ },
+ {
+   "clubName": "Lillestrøm SK"
+ },
+ {
+   "clubName": "Macarthur FC"
+ },
+ {
+   "clubName": "Yukatel Kayserispor"
+ },
+ {
+   "clubName": "Legia Warszawa"
+ },
+ {
+   "clubName": "Al Khaleej"
+ },
+ {
+   "clubName": "Strømsgodset IF"
+ },
+ {
+   "clubName": "Chengdu Rongcheng F.C."
+ },
+ {
+   "clubName": "En Avant de Guingamp"
+ },
+ {
+   "clubName": "Jeju United FC"
+ },
+ {
+   "clubName": "Urbs Reggina 1914"
+ },
+ {
+   "clubName": "Independiente Medellín"
+ },
+ {
+   "clubName": "1. FC Magdeburg"
+ },
+ {
+   "clubName": "Chamois Niortais Football Club"
+ },
+ {
+   "clubName": "IF Elfsborg"
+ },
+ {
+   "clubName": "Montevideo Wanderers"
+ },
+ {
+   "clubName": "APOEL Nicosia FC"
+ },
+ {
+   "clubName": "Cosenza"
+ },
+ {
+   "clubName": "Cardiff City"
+ },
+ {
+   "clubName": "Karlsruher SC"
+ },
+ {
+   "clubName": "China PR"
+ },
+ {
+   "clubName": "Western United FC"
+ },
+ {
+   "clubName": "Changchun Yatai FC"
+ },
+ {
+   "clubName": "Le Havre AC"
+ },
+ {
+   "clubName": "Universitatea Craiova"
+ },
+ {
+   "clubName": "Holstein Kiel"
+ },
+ {
+   "clubName": "Milton Keynes Dons"
+ },
+ {
+   "clubName": "Motherwell"
+ },
+ {
+   "clubName": "FC Cartagena"
+ },
+ {
+   "clubName": "Hibernian"
+ },
+ {
+   "clubName": "Exeter City"
+ },
+ {
+   "clubName": "F.C. Hansa Rostock"
+ },
+ {
+   "clubName": "Stevenage"
+ },
+ {
+   "clubName": "Aberdeen"
+ },
+ {
+   "clubName": "Sparta Rotterdam"
+ },
+ {
+   "clubName": "Kalmar FF"
+ },
+ {
+   "clubName": "Plymouth Argyle"
+ },
+ {
+   "clubName": "SG Dynamo Dresden"
+ },
+ {
+   "clubName": "Peterborough United"
+ },
+ {
+   "clubName": "TSV Egger Glas Hartberg"
+ },
+ {
+   "clubName": "SC Cambuur"
+ },
+ {
+   "clubName": "Randers FC"
+ },
+ {
+   "clubName": "Dijon FCO"
+ },
+ {
+   "clubName": "Go Ahead Eagles"
+ },
+ {
+   "clubName": "Newcastle Jets"
+ },
+ {
+   "clubName": "RZ Pellets Wolfsberger AC"
+ },
+ {
+   "clubName": "Palermo"
+ },
+ {
+   "clubName": "Pogoń Szczecin"
+ },
+ {
+   "clubName": "Wycombe Wanderers"
+ },
+ {
+   "clubName": "Aalborg BK"
+ },
+ {
+   "clubName": "CD Antofagasta"
+ },
+ {
+   "clubName": "Górnik Zabrze"
+ },
+ {
+   "clubName": "Patronato"
+ },
+ {
+   "clubName": "MSV Duisburg"
+ },
+ {
+   "clubName": "SV Zulte Waregem"
+ },
+ {
+   "clubName": "Odds BK"
+ },
+ {
+   "clubName": "TSV 1860 München"
+ },
+ {
+   "clubName": "Austria Lustenau"
+ },
+ {
+   "clubName": "Viking FK"
+ },
+ {
+   "clubName": "CD Lugo"
+ },
+ {
+   "clubName": "Mjällby AIF"
+ },
+ {
+   "clubName": "Tromsø IL"
+ },
+ {
+   "clubName": "Ternana"
+ },
+ {
+   "clubName": "Colorado Rapids"
+ },
+ {
+   "clubName": "Rosenborg BK"
+ },
+ {
+   "clubName": "Unión La Calera"
+ },
+ {
+   "clubName": "Club Sol de América"
+ },
+ {
+   "clubName": "Amiens SC"
+ },
+ {
+   "clubName": "Pohang Steelers"
+ },
+ {
+   "clubName": "Piast Gliwice"
+ },
+ {
+   "clubName": "Western Sydney Wanderers"
+ },
+ {
+   "clubName": "Al Tai"
+ },
+ {
+   "clubName": "Melbourne City FC"
+ },
+ {
+   "clubName": "Beijing Guoan FC"
+ },
+ {
+   "clubName": "CS Emelec"
+ },
+ {
+   "clubName": "Sint-Truidense VV"
+ },
+ {
+   "clubName": "Excelsior"
+ },
+ {
+   "clubName": "Charlton Athletic"
+ },
+ {
+   "clubName": "Perugia"
+ },
+ {
+   "clubName": "New Zealand"
+ },
+ {
+   "clubName": "Ipswich Town"
+ },
+ {
+   "clubName": "Stockport County"
+ },
+ {
+   "clubName": "Seraing"
+ },
+ {
+   "clubName": "Wellington Phoenix"
+ },
+ {
+   "clubName": "Salford City"
+ },
+ {
+   "clubName": "Gangwon FC"
+ },
+ {
+   "clubName": "Cerro Largo Fútbol Club"
+ },
+ {
+   "clubName": "Cheltenham Town"
+ },
+ {
+   "clubName": "HJK Helsinki"
+ },
+ {
+   "clubName": "Sepsi OSK Sf. Gheorghe"
+ },
+ {
+   "clubName": "Colchester United"
+ },
+ {
+   "clubName": "Südtirol"
+ },
+ {
+   "clubName": "Suwon FC"
+ },
+ {
+   "clubName": "Aalesunds FK"
+ },
+ {
+   "clubName": "Incheon United FC"
+ },
+ {
+   "clubName": "Perth Glory"
+ },
+ {
+   "clubName": "RKC Waalwijk"
+ },
+ {
+   "clubName": "Viborg FF"
+ },
+ {
+   "clubName": "Odense Boldklub"
+ },
+ {
+   "clubName": "SV Ried"
+ },
+ {
+   "clubName": "FSV Zwickau"
+ },
+ {
+   "clubName": "Guangzhou FC"
+ },
+ {
+   "clubName": "AFC Wimbledon"
+ },
+ {
+   "clubName": "Lechia Gdańsk"
+ },
+ {
+   "clubName": "Cracovia"
+ },
+ {
+   "clubName": "Central Coast Mariners"
+ },
+ {
+   "clubName": "Jagiellonia Białystok"
+ },
+ {
+   "clubName": "FC Ingolstadt 04"
+ },
+ {
+   "clubName": "Club The Strongest"
+ },
+ {
+   "clubName": "BK Häcken"
+ },
+ {
+   "clubName": "Modena"
+ },
+ {
+   "clubName": "FC U Craiova 1948"
+ },
+ {
+   "clubName": "Meizhou Hakka"
+ },
+ {
+   "clubName": "Viktoria Köln"
+ },
+ {
+   "clubName": "Bristol Rovers"
+ },
+ {
+   "clubName": "FC Andorra"
+ },
+ {
+   "clubName": "Zagłębie Lubin"
+ },
+ {
+   "clubName": "ATK Mohun Bagan FC"
+ },
+ {
+   "clubName": "Lyngby BK"
+ },
+ {
+   "clubName": "FC Emmen"
+ },
+ {
+   "clubName": "Barcelona Sporting Club"
+ },
+ {
+   "clubName": "Śląsk Wrocław"
+ },
+ {
+   "clubName": "WSG Tirol"
+ },
+ {
+   "clubName": "SK Austria Klagenfurt"
+ },
+ {
+   "clubName": "Estudiantes de Mérida"
+ },
+ {
+   "clubName": "US Quevilly Rouen Métropole"
+ },
+ {
+   "clubName": "SV Waldhof Mannheim 07"
+ },
+ {
+   "clubName": "Ross County FC"
+ },
+ {
+   "clubName": "Ümraniyespor"
+ },
+ {
+   "clubName": "Fleetwood Town"
+ },
+ {
+   "clubName": "Lincoln City"
+ },
+ {
+   "clubName": "IK Sirius"
+ },
+ {
+   "clubName": "9 de Octubre"
+ },
+ {
+   "clubName": "Royal Pari"
+ },
+ {
+   "clubName": "Petrolul Ploiești"
+ },
+ {
+   "clubName": "Club Deportivo Jorge Wilstermann"
+ },
+ {
+   "clubName": "AC Horsens"
+ },
+ {
+   "clubName": "Grenoble Foot 38"
+ },
+ {
+   "clubName": "Shrewsbury Town"
+ },
+ {
+   "clubName": "Sport Boys"
+ },
+ {
+   "clubName": "FC Voluntari"
+ },
+ {
+   "clubName": "Hallescher FC"
+ },
+ {
+   "clubName": "Campionii FC Arges"
+ },
+ {
+   "clubName": "Sangju Sangmu FC"
+ },
+ {
+   "clubName": "Bengaluru FC"
+ },
+ {
+   "clubName": "FC Erzgebirge Aue"
+ },
+ {
+   "clubName": "Club Always Ready"
+ },
+ {
+   "clubName": "Mumbai City FC"
+ },
+ {
+   "clubName": "Brisbane Roar"
+ },
+ {
+   "clubName": "Tianjin Jinmen Tiger FC"
+ },
+ {
+   "clubName": "Guaireña FC"
+ },
+ {
+   "clubName": "Club Atlético Central Córdoba"
+ },
+ {
+   "clubName": "Hyderabad FC"
+ },
+ {
+   "clubName": "Sydney FC"
+ },
+ {
+   "clubName": "Ayacucho"
+ },
+ {
+   "clubName": "Mushuc Runa"
+ },
+ {
+   "clubName": "AFC UTA Arad"
+ },
+ {
+   "clubName": "Hamarkameratene"
+ },
+ {
+   "clubName": "SC Bastia"
+ },
+ {
+   "clubName": "Pau FC"
+ },
+ {
+   "clubName": "Hermanos Colmenarez"
+ },
+ {
+   "clubName": "Cittadella"
+ },
+ {
+   "clubName": "Sarpsborg 08 FF"
+ },
+ {
+   "clubName": "Warta Poznań"
+ },
+ {
+   "clubName": "Varbergs BoIS FC"
+ },
+ {
+   "clubName": "AFC Chindia Târgoviște"
+ },
+ {
+   "clubName": "AFC Hermannstadt"
+ },
+ {
+   "clubName": "Accrington Stanley"
+ },
+ {
+   "clubName": "Crawley Town"
+ },
+ {
+   "clubName": "Club Deportivo Oriente Petrolero"
+ },
+ {
+   "clubName": "Helsingborgs IF"
+ },
+ {
+   "clubName": "St. Johnstone FC"
+ },
+ {
+   "clubName": "St. Mirren"
+ },
+ {
+   "clubName": "1. FC Saarbrücken"
+ },
+ {
+   "clubName": "Seongnam FC"
+ },
+ {
+   "clubName": "Radomiak Radom"
+ },
+ {
+   "clubName": "Kilmarnock"
+ },
+ {
+   "clubName": "Rodez Aveyron Football"
+ },
+ {
+   "clubName": "VfL Osnabrück"
+ },
+ {
+   "clubName": "Independiente Petrolero"
+ },
+ {
+   "clubName": "Burton Albion"
+ },
+ {
+   "clubName": "IFK Göteborg"
+ },
+ {
+   "clubName": "Widzew Łódź"
+ },
+ {
+   "clubName": "FK Haugesund"
+ },
+ {
+   "clubName": "General Caballero (JLM)"
+ },
+ {
+   "clubName": "GIF Sundsvall"
+ },
+ {
+   "clubName": "FC Goa"
+ },
+ {
+   "clubName": "FC Botoşani"
+ },
+ {
+   "clubName": "Wisła Płock"
+ },
+ {
+   "clubName": "SC Freiburg II"
+ },
+ {
+   "clubName": "Cambridge United"
+ },
+ {
+   "clubName": "Port Vale"
+ },
+ {
+   "clubName": "Bohemian FC"
+ },
+ {
+   "clubName": "Club Deportivo Guabirá"
+ },
+ {
+   "clubName": "Crewe Alexandra"
+ },
+ {
+   "clubName": "Delfín Sporting Club"
+ },
+ {
+   "clubName": "Tranmere Rovers"
+ },
+ {
+   "clubName": "İstanbulspor"
+ },
+ {
+   "clubName": "Shamrock Rovers"
+ },
+ {
+   "clubName": "Universitatea Cluj"
+ },
+ {
+   "clubName": "Forest Green Rovers"
+ },
+ {
+   "clubName": "Rot-Weiß Essen"
+ },
+ {
+   "clubName": "PGE FKS Stal Mielec"
+ },
+ {
+   "clubName": "Sligo Rovers"
+ },
+ {
+   "clubName": "SV Wehen Wiesbaden"
+ },
+ {
+   "clubName": "SV Elversberg"
+ },
+ {
+   "clubName": "Rochdale"
+ },
+ {
+   "clubName": "Sandefjord Fotball"
+ },
+ {
+   "clubName": "IFK Värnamo"
+ },
+ {
+   "clubName": "Stade Lavallois Mayenne FC"
+ },
+ {
+   "clubName": "Morecambe"
+ },
+ {
+   "clubName": "Grimsby Town"
+ },
+ {
+   "clubName": "Sportclub Verl"
+ },
+ {
+   "clubName": "SV Meppen"
+ },
+ {
+   "clubName": "Chennaiyin FC"
+ },
+ {
+   "clubName": "Jamshedpur FC"
+ },
+ {
+   "clubName": "NorthEast United FC"
+ },
+ {
+   "clubName": "Kerala Blasters FC"
+ },
+ {
+   "clubName": "Odisha FC"
+ },
+ {
+   "clubName": "Kristiansund BK"
+ },
+ {
+   "clubName": "Dalian Professional Football Club"
+ },
+ {
+   "clubName": "Doncaster Rovers"
+ },
+ {
+   "clubName": "Livingston FC"
+ },
+ {
+   "clubName": "Newport County"
+ },
+ {
+   "clubName": "Bradford City"
+ },
+ {
+   "clubName": "Northampton Town"
+ },
+ {
+   "clubName": "Wrexham AFC"
+ },
+ {
+   "clubName": "FK Jerv"
+ },
+ {
+   "clubName": "Hebei FC"
+ },
+ {
+   "clubName": "FC Winterthur"
+ },
+ {
+   "clubName": "CS Mioveni"
+ },
+ {
+   "clubName": "Dundalk FC"
+ },
+ {
+   "clubName": "VfB Oldenburg"
+ },
+ {
+   "clubName": "Swindon Town"
+ },
+ {
+   "clubName": "Barrow"
+ },
+ {
+   "clubName": "Korona Kielce"
+ },
+ {
+   "clubName": "SC East Bengal FC"
+ },
+ {
+   "clubName": "Carlisle United"
+ },
+ {
+   "clubName": "Leyton Orient"
+ },
+ {
+   "clubName": "Degerfors IF"
+ },
+ {
+   "clubName": "Derry City"
+ },
+ {
+   "clubName": "Mansfield Town"
+ },
+ {
+   "clubName": "Walsall"
+ },
+ {
+   "clubName": "Harrogate Town"
+ },
+ {
+   "clubName": "Gillingham"
+ },
+ {
+   "clubName": "St. Patrick's Athletic"
+ },
+ {
+   "clubName": "Hartlepool United"
+ },
+ {
+   "clubName": "SpVgg Bayreuth"
+ },
+ {
+   "clubName": "Sutton United"
+ },
+ {
+   "clubName": "Shelbourne FC"
+ },
+ {
+   "clubName": "UCD AFC"
+ },
+ {
+   "clubName": "Finn Harps"
+ },
+ {
+   "clubName": "Drogheda United"
+ }
+]
